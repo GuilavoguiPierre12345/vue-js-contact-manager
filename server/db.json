@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": "2",
+      "name": "contact 2",
+      "company": "company 2",
+      "email": "contact@company2",
+      "title": "Contact title 2",
+      "mobile": "mobile 2",
+      "photo": "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "4",
+      "name": "jeannette",
+      "company": "LaboCity",
+      "email": "jeannette@gmail.com",
+      "title": "Technicienne",
+      "mobile": 621009212,
+      "photo": "https://www.freeiconspng.com/uploads/teacher-female-icon-22.png",
+      "groupId": "1"
+    },
+    {
+      "name": "Pierre Guilao",
+      "company": "Magoe Technologie",
+      "email": "yaboi@gmail.com",
+      "title": "Developper",
+      "mobile": 625506385,
+      "photo": "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg",
+      "groupId": "2",
+      "id": "SvUNO2q"
+    },
+    {
+      "name": "Ibrahima Toute",
+      "company": "Magoe Technologie",
+      "email": "lamsso@hotmail.com",
+      "title": "DGA",
+      "mobile": 623091234,
+      "photo": "https://png.pngtree.com/png-vector/20190704/ourmid/pngtree-vector-user-young-boy-avatar-icon-png-image_1538408.jpg",
+      "groupId": "1",
+      "id": "PnGrsv1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "amies"
+    },
+    {
+      "id": "2",
+      "name": "famille"
+    },
+    {
+      "id": "3",
+      "name": "copines"
+    }
+  ]
+}
